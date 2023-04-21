@@ -1,0 +1,25 @@
+Matrice[10][10]
+valeur :
+-null
+-blé
+-bois
+-pierre
+
+classe Ressource héritée par bois, blé et pierre
+contient poids et identifiant
+
+ObejetManufacture
+
+pour le main faire un switch case
+
+Fonctionnement :
+
+1 Création :
+  - Ressource (ambre)
+  - Bois (ambre)
+  - Blé (ambre)
+  - Pierre (ambre)
+  - ObjetManufacture(solene)
+  - Utilisable (solene)
+
+
